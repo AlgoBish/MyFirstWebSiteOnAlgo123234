@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/0/0f/Pepsi_logo_2014.svg");
+}
+
+a{
+    text-decoration: none;
+}
+
+nav a {
+    text-decoration: none;
+    color: aqua;
+    font-family: fantasy;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+header{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+main{
+    background-color: black;
+    color: aqua;
+}
+body{
+    margin: 0;
+    font-family: Trattatello, fantasy;
+}
